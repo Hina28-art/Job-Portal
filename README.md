@@ -1,5 +1,5 @@
 # Job-Portal
-This project serves as a comprehensive introduction by providing a foundational framework in Spring Boot, MVC, and Hibernate. It includes features such as adding jobs, viewing all available jobs, and managing job details, allowing users to interact with a simple yet effective job management system while learning core concepts of web application development.
+This project serves as a comprehensive introduction by providing a foundational framework in Spring Boot, Rest API, and Hibernate. It includes features such as adding jobs, viewing all available jobs, and managing job details, allowing users to interact with a simple yet effective job management system while learning core concepts of web application development.
 
 
 # Workflow
